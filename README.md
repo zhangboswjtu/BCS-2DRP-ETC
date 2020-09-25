@@ -1,5 +1,5 @@
 # BCS-2DRP-ETC
-BCS-2DRP scheme: Block Compressed Sensing with 2D Random Permutation scheme.
+BCS-2DRP scheme: Block Compressed Sensing with 2D Random Permutation scheme. The compressed file named BCS-ETC.rar contains the main function, WaveletSoftware, the useful functions and the test images. 
 
 % This code runs the experiments for BCS-2DRP scheme. 
 % BCS-2DRP scheme can be used for image Encryption-then-Compression applications. 
